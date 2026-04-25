@@ -5,7 +5,7 @@ Place optional banner image in: assets/profile_banner.png
 -->
 
 <p align="center">
-  <img src="assets/profile_banner.png" alt="Francis Chanda Mumbi | Digital Banking, Data & AI Executive" width="100%" />
+  <img src="banner.png" alt="Francis Chanda Mumbi | Digital Banking, Data & AI Executive" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Francis Chanda Mumbi 👋</h1>
